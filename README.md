@@ -6,7 +6,7 @@ This Magic Mirror module scraps World of Warcraft Armory values from WoW server 
 
 
 ## Install
-1) git colne https://github.com/DeanoNoire/MMM-HonorKills.git to the MagicMirror/modules directory.
+1) git clone https://github.com/DeanoNoire/MMM-HonorKills.git to the MagicMirror/modules directory.
 <br/>
 2) Update your config:
 
