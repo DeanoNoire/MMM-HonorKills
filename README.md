@@ -1,5 +1,5 @@
 # MMM-HonorKills
-This Magic Mirror module scraps World of Warcraft Armory values from WoW server Twinstar. This again sound very specific, but the module can be easily changed to scrap anyting at any website.
+This Magic Mirror module is scraping World of Warcraft Armory values from WoW server Twinstar. This again sound very specific, but the module can be easily changed to scrape anyting at any website.
   
   ## Preview
 <img src="https://github.com/DeanoNoire/MMM-HonorKills/blob/master/screenshot.png?raw=true">
